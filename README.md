@@ -1,2 +1,2 @@
-# python-pong
-A somewhat barebones Pong clone on Python
+# simple-games
+A collection of simple games.
